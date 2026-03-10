@@ -1,2 +1,6 @@
 Filesystem            Size  Used Avail Use% Mounted on
 C:/Program Files/Git  237G   69G  169G  30% /
+hello from conflict
+
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  237G   69G  169G  30% /
